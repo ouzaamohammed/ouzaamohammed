@@ -2,7 +2,7 @@
 
 **`Software Engineer & Web Developer`**
 
-I'm an indie full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm an indie web developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 I enjoy the constant change in the technologies used in the area and love diving into new frameworks and technologies.
 I try to challenge myself by diving head-first into the unknown, learning the skills along the way, needed to complete the task.
 
