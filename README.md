@@ -24,4 +24,4 @@ I try to challenge myself by diving head-first into the unknown, learning the sk
 
 ---
           
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OU-ZAA&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouzaadev&show_icons=true&theme=radical)
